@@ -42,9 +42,13 @@
 
 ---
 <img src = "https://github-readme-stats.vercel.app/api?username=tilak-codes&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+
 ---
+
 ## About Me
  + Pursuing B.Tech in Computer Science in Kalinga Institute of Industrial Science, Bhubaneswar, Orissa , India
+
+ + [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
  <br />
  <br />
