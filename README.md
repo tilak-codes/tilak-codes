@@ -10,8 +10,8 @@
 
 <p style="text-align:right">
   
-![](https://github.com/NikhilCodes/GitStats/blob/master/generated/overview.svg)
-![](https://github.com/NikhilCodes/GitStats/blob/master/generated/languages.svg)
+![](https://github.com/tilak-codes/GitStats/blob/master/generated/overview.svg)
+![](https://github.com/tilak-codes/GitStats/blob/master/generated/languages.svg)
 </p>
 <p align="center">
   <a target="_blank"href="https://https://www.linkedin.com/in/tilak-sovan-khatua-1062401b9//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
